@@ -1,0 +1,1100 @@
+Info: Change symbol path "C66:" to "/663CC0C7".
+Info: Change symbol path "L5:" to "/664548BE".
+Info: Processing component "R30:/664476E5:Resistor_SMD:R_0805_2012Metric".
+Info: Change symbol path "C68:" to "/663DEFD4".
+Info: Change symbol path "R30:" to "/664476E5".
+Info: Processing component "C68:/663DEFD4:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "C67:" to "/6658E7D9".
+Info: Processing component "R31:/662D891D:Resistor_SMD:R_0805_2012Metric".
+Info: Processing component "C67:/6658E7D9:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "R33:" to "/66471DDC".
+Info: Change symbol path "C76:" to "/664476D9".
+Info: Processing component "R32:/664476DF:Resistor_SMD:R_0805_2012Metric".
+Info: Processing component "C66:/663CC0C7:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "C65:" to "/6677DF00".
+Info: Change symbol path "R29:" to "/662DA837".
+Info: Processing component "C65:/6677DF00:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "R33:/66471DDC:Resistor_SMD:R_0805_2012Metric".
+Info: Change symbol path "C64:" to "/663E3197".
+Info: Processing component "C64:/663E3197:Capacitor_SMD:CP_Elec_4x5.4".
+Info: Processing component "L6:/663A9446:Inductor_SMD:L_0603_1608Metric".
+Info: Change symbol path "C63:" to "/6677C284".
+Info: Processing component "R34:/66D28264:Resistor_SMD:R_0805_2012Metric".
+Info: Processing component "C63:/6677C284:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "C62:" to "/663E1CF4".
+Info: Change symbol path "R34:" to "/66D28264".
+Info: Processing component "C62:/663E1CF4:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "R35:/66701C3B:Resistor_SMD:R_0805_2012Metric".
+Info: Processing component "R27:/66D245A6:Resistor_SMD:R_0805_2012Metric".
+Info: Change symbol path "R31:" to "/662D891D".
+Info: Change symbol path "R24:" to "/66701C6C".
+Info: Processing component "C76:/664476D9:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "R25:/668B2F03:Resistor_SMD:R_0805_2012Metric".
+Info: Change symbol path "C75:" to "/662CEC74".
+Info: Change symbol path "R25:" to "/668B2F03".
+Info: Processing component "C75:/662CEC74:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "C74:" to "/66F02636".
+Info: Processing component "R26:/668B1381:Resistor_SMD:R_0805_2012Metric".
+Info: Processing component "C71:/662CAD43:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "R26:" to "/668B1381".
+Info: Change symbol path "C73:" to "/66D249A5".
+Info: Change symbol path "C61:" to "/6677A768".
+Info: Processing component "C73:/66D249A5:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "C72:" to "/668B68FC".
+Info: Change symbol path "R27:" to "/66D245A6".
+Info: Processing component "C72:/668B68FC:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "R28:/662D695C:Resistor_SMD:R_0805_2012Metric".
+Info: Processing component "C53:/669B0E9A:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "C47:/663A94C4:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "R28:" to "/662D695C".
+Info: Change symbol path "C70:" to "/668B4AD4".
+Info: Processing component "R29:/662DA837:Resistor_SMD:R_0805_2012Metric".
+Info: Processing component "C70:/668B4AD4:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "C69:" to "/668B65B9".
+Info: Processing component "C45:/663A943A:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "C53:" to "/669B0E9A".
+Info: Processing component "U1:/66170904:RP2040_PICO:RPI2040_PICO_SMD".
+Info: Processing component "C74:/66F02636:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "C52:" to "/6623EA73".
+Info: Change symbol path "U1:" to "/66170904".
+Info: Processing component "C52:/6623EA73:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "C51:" to "/66481EE1".
+Info: Processing component "C51:/66481EE1:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "C50:/663A950D:Capacitor_SMD:CP_Elec_6.3x7.7".
+Info: Processing component "C49:/663A9507:Capacitor_SMD:CP_Elec_4x5.4".
+Info: Processing component "C48:/663A94CA:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "R1:" to "/66267878".
+Info: Processing component "C46:/663A9440:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "C54:/668524BC:Capacitor_SMD:CP_Elec_4x5.4".
+Info: Processing component "C44:/663A94BE:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "C43:/66706D0E:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "C42:/663A94B8:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "C41:/6670521F:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "C40:/663A94B2:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "C39:/663A94AC:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "R36:/66701C41:Resistor_SMD:R_0805_2012Metric".
+Info: Processing component "L1:/662C1781:Inductor_SMD:L_1210_3225Metric".
+Info: Processing component "C37:/6650C275:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "C36:" to "/6650DF28".
+Info: Processing component "C36:/6650DF28:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "C35:" to "/663BE2B3".
+Info: Processing component "RV2:/669DF9A2:Resistor_SMD:R_0805_2012Metric".
+Info: Change symbol path "R35:" to "/66701C3B".
+Info: Processing component "C61:/6677A768:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "R2:" to "/664604FC".
+Info: Change symbol path "C57:" to "/667F7E6B".
+Info: Processing component "C60:/669B49D2:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "R36:" to "/66701C41".
+Info: Change symbol path "C59:" to "/66778975".
+Info: Processing component "RV1:/669DDBF4:Resistor_SMD:R_0805_2012Metric".
+Info: Processing component "C59:/66778975:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "C58:" to "/667087F0".
+Info: Change symbol path "RV1:" to "/669DDBF4".
+Info: Processing component "C58:/667087F0:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "RV3:" to "/669E166B".
+Info: Processing component "H4:/66276D82:MountingHole:MountingHole_3.2mm_M3_DIN965_Pad".
+Info: Processing component "C55:/6623D448:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "C57:/667F7E6B:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "RV2:" to "/669DF9A2".
+Info: Change symbol path "C56:" to "/669B1360".
+Info: Processing component "RV3:/669E166B:Resistor_SMD:R_0805_2012Metric".
+Info: Processing component "C56:/669B1360:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "C55:" to "/6623D448".
+Info: Change symbol path "C60:" to "/669B49D2".
+Info: Processing component "SW1:/6629E30C:ADX_FOOTPRINT_LIBRARY:SW_Push_1P1T_NO_6x6mm_H9.5mm".
+Info: Change symbol path "C54:" to "/668524BC".
+Info: Change symbol path "SW1:" to "/6629E30C".
+Info: Processing component "R5:/6645C210:Resistor_SMD:R_0805_2012Metric".
+Info: Processing component "L2:/662BB9F9:Inductor_SMD:L_1210_3225Metric".
+Info: Processing component "R2:/664604FC:Resistor_SMD:R_0805_2012Metric".
+Info: Change symbol path "L1:" to "/662C1781".
+Info: Processing component "C77:/66471DD6:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "J3:" to "/662B9816".
+Info: Processing component "R3:/6645D7FB:Resistor_SMD:R_0805_2012Metric".
+Info: Change symbol path "J6:" to "/666DE33C".
+Info: Processing component "J6:/666DE33C:uSDX_MONO_PCB_Library:Jack_3.5mm_PJ-320B-SMT_Horizontal_CORR".
+Info: Change symbol path "R3:" to "/6645D7FB".
+Info: Processing component "R4:/6645EE0F:Resistor_SMD:R_0805_2012Metric".
+Info: Change symbol path "J5:" to "/6626FDB7".
+Info: Change symbol path "R4:" to "/6645EE0F".
+Info: Processing component "J5:/6626FDB7:Connector_Coaxial:SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount".
+Info: Change symbol path "R8:" to "/6624112D".
+Info: Change symbol path "L14:" to "/664476EB".
+Info: Processing component "J3:/662B9816:uSDX_MONO_PCB_Library:Jack_3.5mm_PJ-320B-SMT_Horizontal_CORR".
+Info: Change symbol path "R5:" to "/6645C210".
+Info: Processing component "R6:/666D83CB:Resistor_SMD:R_0805_2012Metric".
+Info: Change symbol path "R6:" to "/666D83CB".
+Info: Processing component "R7:/6623FF50:Resistor_SMD:R_0805_2012Metric".
+Info: Change symbol path "R7:" to "/6623FF50".
+Info: Processing component "R8:/6624112D:Resistor_SMD:R_0805_2012Metric".
+Info: Change symbol path "J2:" to "/6622BC8E".
+Info: Change symbol path "C37:" to "/6650C275".
+Info: Processing component "J2:/6622BC8E:Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical".
+Info: Processing component "R9:/664AFDF3:Resistor_SMD:R_0805_2012Metric".
+Info: Processing component "L7:/663A944C:Inductor_SMD:L_0603_1608Metric".
+Info: Change symbol path "L13:" to "/66307578".
+Info: Processing component "L13:/66307578:Inductor_SMD:L_0805_2012Metric".
+Info: Change symbol path "L12:" to "/663E4A50".
+Info: Processing component "L14:/664476EB:Inductor_SMD:L_0805_2012Metric".
+Info: Processing component "L12:/663E4A50:Inductor_SMD:L_1210_3225Metric".
+Info: Processing component "FL1:/662F43A0:SPF2126E:SF2126E".
+Info: Change symbol path "L11:" to "/667F9DFE".
+Info: Processing component "L15:/66471DE8:Inductor_SMD:L_0805_2012Metric".
+Info: Processing component "L11:/667F9DFE:Inductor_SMD:L_1210_3225Metric".
+Info: Processing component "L10:/663A9501:Inductor_SMD:L_1210_3225Metric".
+Info: Processing component "L9:/663A9463:Inductor_SMD:L_0603_1608Metric".
+Info: Processing component "L8:/663A945D:Inductor_SMD:L_0603_1608Metric".
+Info: Change symbol path "R9:" to "/664AFDF3".
+Info: Processing component "C38:/6676790A:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "L2:" to "/662BB9F9".
+Info: Change symbol path "L15:" to "/66471DE8".
+Info: Processing component "L5:/664548BE:Inductor_SMD:L_1210_3225Metric".
+Info: Processing component "L16:/66D2CAC6:Inductor_SMD:L_0805_2012Metric".
+Info: Change symbol path "L4:" to "/6636294A".
+Info: Processing component "L4:/6636294A:Inductor_SMD:L_1210_3225Metric".
+Info: Change symbol path "L16:" to "/66D2CAC6".
+Info: Change symbol path "L3:" to "/663BB9BA".
+Info: Processing component "R1:/66267878:Resistor_SMD:R_0805_2012Metric".
+Info: Change symbol path "C82:" to "/66701C7A".
+Info: Processing component "C80:/665907AD:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "R21:" to "/66243747".
+Info: Change symbol path "C84:" to "/66701C74".
+Info: Processing component "R19:/66683939:Resistor_SMD:R_0805_2012Metric".
+Info: Processing component "C84:/66701C74:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "C83:" to "/66701C80".
+Info: Change symbol path "R19:" to "/66683939".
+Info: Processing component "C83:/66701C80:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "R20:/66681E04:Resistor_SMD:R_0805_2012Metric".
+Info: Processing component "U10:/66224E30:Package_SO:SO-8_3.9x4.9mm_P1.27mm".
+Info: Change symbol path "R20:" to "/66681E04".
+Info: Processing component "C82:/66701C7A:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "C81:" to "/6658C40F".
+Info: Processing component "R21:/66243747:Resistor_SMD:R_0805_2012Metric".
+Info: Processing component "C81:/6658C40F:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "R18:" to "/669DA5DA".
+Info: Change symbol path "C80:" to "/665907AD".
+Info: Processing component "R22:/6646AC53:Resistor_SMD:R_0805_2012Metric".
+Info: Processing component "L3:/663BB9BA:Inductor_SMD:L_0402_1005Metric".
+Info: Change symbol path "C79:" to "/662CCD4D".
+Info: Change symbol path "R22:" to "/6646AC53".
+Info: Processing component "C79:/662CCD4D:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "R23:/6624490F:Resistor_SMD:R_0805_2012Metric".
+Info: Change symbol path "C78:" to "/66D2A876".
+Info: Processing component "C78:/66D2A876:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "R23:" to "/6624490F".
+Info: Change symbol path "C77:" to "/66471DD6".
+Info: Processing component "H3:/66276969:MountingHole:MountingHole_3.2mm_M3_DIN965_Pad".
+Info: Change symbol path "R13:" to "/669DA320".
+Info: Processing component "R10:/662424AE:Resistor_SMD:R_0805_2012Metric".
+Info: Change symbol path "R10:" to "/662424AE".
+Info: Processing component "R11:/663A940E:Resistor_SMD:R_0805_2012Metric".
+Info: Processing component "R12:/669D85E4:Resistor_SMD:R_0805_2012Metric".
+Info: Change symbol path "J1:" to "/6622BC88".
+Info: Change symbol path "R12:" to "/669D85E4".
+Info: Processing component "J1:/6622BC88:Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical".
+Info: Change symbol path "R15:" to "/66B90303".
+Info: Change symbol path "C23:" to "/661E46CD".
+Info: Processing component "H2:/662752CF:MountingHole:MountingHole_3.2mm_M3_DIN965_Pad".
+Info: Processing component "H1:/6627385C:MountingHole:MountingHole_3.2mm_M3_DIN965_Pad".
+Info: Processing component "R13:/669DA320:Resistor_SMD:R_0805_2012Metric".
+Info: Processing component "C1:/661A04E7:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "R14:/663A9422:Resistor_SMD:R_0805_2012Metric".
+Info: Change symbol path "FL1:" to "/662F43A0".
+Info: Processing component "R15:/66B90303:Resistor_SMD:R_0805_2012Metric".
+Info: Change symbol path "C71:" to "/662CAD43".
+Info: Processing component "R24:/66701C6C:Resistor_SMD:R_0805_2012Metric".
+Info: Change symbol path "D1:" to "/664282D6".
+Info: Processing component "R16:/6673A672:Resistor_SMD:R_0805_2012Metric".
+Info: Processing component "D1:/664282D6:Diode_SMD:D_SMA".
+Info: Processing component "R17:/66708C14:Resistor_SMD:R_0805_2012Metric".
+Info: Processing component "R18:/669DA5DA:Resistor_SMD:R_0805_2012Metric".
+Info: Change symbol path "C85:" to "/66701C66".
+Info: Processing component "C85:/66701C66:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "C6:" to "/661A8007".
+Info: Change symbol path "U2:" to "/666D18F3".
+Info: Processing component "C30:/666D56C6:Capacitor_SMD:CP_Elec_6.3x7.7".
+Info: Processing component "U2:/666D18F3:Package_SO:SO-8_3.9x4.9mm_P1.27mm".
+Info: Processing component "C5:/662C6E13:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "C17:/66459781:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "C12:/666D3F2C:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "U5:/6617BE55:Package_TO_SOT_SMD:SOT-223-3_TabPin2".
+Info: Change symbol path "C30:" to "/666D56C6".
+Info: Change symbol path "C4:" to "/6626E9A2".
+Info: Processing component "C4:/6626E9A2:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "C11:" to "/6645ACA6".
+Info: Change symbol path "C16:" to "/666DB293".
+Info: Change symbol path "C18:" to "/661DE9E5".
+Info: Change symbol path "U9:" to "/6621ED04".
+Info: Processing component "C31:/663A946B:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "U6:" to "/6617CADD".
+Info: Processing component "C20:/663A93F3:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "C32:/6627184F:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "C11:/6645ACA6:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "U3:" to "/664305AF".
+Info: Change symbol path "C27:" to "/661E6F20".
+Info: Change symbol path "U10:" to "/66224E30".
+Info: Change symbol path "C9:" to "/661A4FAA".
+Info: Processing component "C18:/661DE9E5:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "C6:/661A8007:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "C25:/666D6E58:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "C28:/66271849:Capacitor_SMD:CP_Elec_6.3x7.7".
+Info: Processing component "C24:/663A9402:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "C69:/668B65B9:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "C25:" to "/666D6E58".
+Info: Change symbol path "C10:" to "/667DC316".
+Info: Processing component "C23:/661E46CD:Capacitor_SMD:CP_Elec_4x5.4".
+Info: Change symbol path "C5:" to "/662C6E13".
+Info: Change symbol path "C17:" to "/66459781".
+Info: Change symbol path "C28:" to "/66271849".
+Info: Change symbol path "C19:" to "/66458273".
+Info: Change symbol path "U5:" to "/6617BE55".
+Info: Change symbol path "C12:" to "/666D3F2C".
+Info: Processing component "U6:/6617CADD:Package_TO_SOT_SMD:SOT-223-3_TabPin2".
+Info: Change symbol path "C7:" to "/66454012".
+Info: Processing component "C29:/663A942E:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "U7:" to "/663A5B81".
+Info: Change symbol path "C2:" to "/661A2793".
+Info: Processing component "U3:/664305AF:Package_SO:SO-8_3.9x4.9mm_P1.27mm".
+Info: Processing component "C26:/663A9408:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "C34:" to "/66271855".
+Info: Change symbol path "C1:" to "/661A04E7".
+Info: Change symbol path "U11:" to "/66289188".
+Info: Processing component "C7:/66454012:Capacitor_SMD:CP_Elec_4x5.4".
+Info: Processing component "C2:/661A2793:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "C13:" to "/662856A4".
+Info: Change symbol path "C21:" to "/661DF5A6".
+Info: Processing component "C34:/66271855:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "C35:/663BE2B3:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "C14:" to "/66283728".
+Info: Processing component "C21:/661DF5A6:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "C16:/666DB293:Capacitor_SMD:CP_Elec_4x5.4".
+Info: Processing component "C22:/666D9ABC:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "C8:" to "/661A762A".
+Info: Processing component "C14:/66283728:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "Y1:/661E7D14:Crystal:Crystal_SMD_SeikoEpson_FA238V-4Pin_3.2x2.5mm".
+Info: Processing component "U4:/66271843:Package_TO_SOT_SMD:SOT-223-3_TabPin2".
+Info: Processing component "C10:/667DC316:Capacitor_SMD:CP_Elec_4x5.4".
+Info: Processing component "C13:/662856A4:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "U11:/66289188:AD8348ARUZ:AD8348SEDA".
+Info: Change symbol path "R32:" to "/664476DF".
+Info: Change symbol path "C22:" to "/666D9ABC".
+Info: Processing component "C9:/661A4FAA:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "C32:" to "/6627184F".
+Info: Change symbol path "C3:" to "/661B85C5".
+Info: Processing component "C8:/661A762A:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "U4:" to "/66271843".
+Info: Processing component "C27:/661E6F20:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "C15:" to "/661DD41F".
+Info: Processing component "C33:/66455496:Capacitor_SMD:CP_Elec_4x5.4".
+Info: Processing component "C19:/66458273:Capacitor_SMD:C_0805_2012Metric".
+Info: Processing component "U7:/663A5B81:BGA7L1BN6:IC_BGC100GN6E6327XTSA1".
+Info: Processing component "C3:/661B85C5:Capacitor_SMD:C_0805_2012Metric".
+Info: Change symbol path "C33:" to "/66455496".
+Info: Processing component "U9:/6621ED04:Package_SO:SO-8_3.9x4.9mm_P1.27mm".
+Info: Processing component "U8:/66390867:ADF4360-5BCP:ADF4360SEDA".
+Info: Processing component "C15:/661DD41F:Capacitor_SMD:CP_Elec_6.3x7.7".
+Connect R10 pin 1 to Net-(R10-Pad1).
+Connect R9 pin 1 to LNA_Cont.
+Add R12 (footprint "Resistor_SMD:R_0805_2012Metric").
+Change REF** reference to R12.
+Change R12 value from R_0805_2012Metric to 200R.
+Connect U10 pin 7 to Net-(C84-Pad1).
+Connect U10 pin 8 to Net-(C55-Pad1).
+Connect R12 pin 2 to GNDPWR.
+Connect R12 pin 1 to IOFS.
+Change U10 value from SO-8_3.9x4.9mm_P1.27mm to LM4562.
+Connect U10 pin 6 to Net-(C83-Pad1).
+Connect U10 pin 5 to Net-(C82-Pad1).
+Connect R10 pin 2 to VCMO.
+Add R15 (footprint "Resistor_SMD:R_0805_2012Metric").
+Change R10 value from R_0805_2012Metric to 10R.
+Change REF** reference to R10.
+Add R10 (footprint "Resistor_SMD:R_0805_2012Metric").
+Connect U10 pin 4 to GNDPWR.
+Change REF** reference to R7.
+Connect R19 pin 1 to Net-(C59-Pad1).
+Change R8 value from R_0805_2012Metric to 1k.
+Connect U9 pin 8 to Net-(C55-Pad1).
+Connect R18 pin 2 to GNDPWR.
+Change U9 value from SO-8_3.9x4.9mm_P1.27mm to LM4562.
+Connect R18 pin 1 to Net-(C60-Pad1).
+Connect R20 pin 1 to Net-(C59-Pad1).
+Connect U7 pin 4 to GNDPWR.
+Change REF** reference to R19.
+Change R19 value from R_0805_2012Metric to 3.9k.
+Add U9 (footprint "Package_SO:SO-8_3.9x4.9mm_P1.27mm").
+Connect R19 pin 2 to Net-(R19-Pad2).
+Change R18 value from R_0805_2012Metric to 200R.
+Add R20 (footprint "Resistor_SMD:R_0805_2012Metric").
+Connect U7 pin 5 to Net-(L3-Pad2).
+Change REF** reference to R20.
+Change R20 value from R_0805_2012Metric to 3.9k.
+Connect U7 pin 2 to Net-(C36-Pad1).
+Connect R20 pin 2 to Net-(R20-Pad2).
+Connect U9 pin 2 to VCMO.
+Change REF** reference to U9.
+Add R21 (footprint "Resistor_SMD:R_0805_2012Metric").
+Change REF** reference to R21.
+Change R15 value from R_0805_2012Metric to 3.9k.
+Add U10 (footprint "Package_SO:SO-8_3.9x4.9mm_P1.27mm").
+Add R13 (footprint "Resistor_SMD:R_0805_2012Metric").
+Change REF** reference to R13.
+Change R13 value from R_0805_2012Metric to 200R.
+Connect R13 pin 2 to GNDPWR.
+Connect R13 pin 1 to QOFS.
+Connect U9 pin 1 to Net-(R10-Pad1).
+Change REF** reference to R1.
+Connect L15 pin 1 to QAIN.
+Change REF** reference to R15.
+Change REF** reference to U10.
+Connect U9 pin 3 to Net-(C52-Pad1).
+Connect U9 pin 4 to GNDPWR.
+Connect R15 pin 2 to Net-(R15-Pad2).
+Connect R15 pin 1 to Net-(C59-Pad1).
+Connect U9 pin 5 to Net-(U9-Pad5).
+Connect U9 pin 6 to GNDPWR.
+Connect U9 pin 7 to Net-(U9-Pad5).
+Add R18 (footprint "Resistor_SMD:R_0805_2012Metric").
+Change REF** reference to R18.
+Connect R2 pin 2 to Net-(C10-Pad2).
+Add C33 (footprint "Capacitor_SMD:CP_Elec_4x5.4").
+Connect U11 pin 12 to Net-(C59-Pad1).
+Add L16 (footprint "Inductor_SMD:L_0805_2012Metric").
+Change REF** reference to L16.
+Change L16 value from L_0805_2012Metric to 1.2uH.
+Connect U11 pin 13 to IOFS.
+Connect L16 pin 2 to Net-(C74-Pad1).
+Connect U11 pin 14 to Net-(C58-Pad1).
+Connect L16 pin 1 to Net-(L16-Pad1).
+Connect U11 pin 15 to Net-(R20-Pad2).
+Add R1 (footprint "Resistor_SMD:R_0805_2012Metric").
+Connect L14 pin 1 to Net-(C76-Pad1).
+Change L13 value from L_0805_2012Metric to 680nH.
+Change R1 value from R_0805_2012Metric to 4.7k.
+Connect U11 pin 17 to Net-(RV3-Pad2).
+Connect R1 pin 2 to Net-(R1-Pad2).
+Connect R1 pin 1 to Net-(C4-Pad1).
+Connect U11 pin 18 to Net-(U11-Pad18).
+Add R2 (footprint "Resistor_SMD:R_0805_2012Metric").
+Connect U11 pin 19 to Net-(U11-Pad19).
+Change REF** reference to R2.
+Change R2 value from R_0805_2012Metric to 12k.
+Connect U11 pin 20 to Net-(C59-Pad1).
+Connect U11 pin 21 to QMXO.
+Add R19 (footprint "Resistor_SMD:R_0805_2012Metric").
+Connect U11 pin 11 to Net-(C70-Pad1).
+Add C1 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Connect L13 pin 2 to Net-(L13-Pad2).
+Connect L13 pin 1 to Net-(C75-Pad1).
+Connect U11 pin 1 to ADF_LOP.
+Add L14 (footprint "Inductor_SMD:L_0805_2012Metric").
+Change REF** reference to L14.
+Connect U11 pin 2 to Net-(C59-Pad1).
+Change L14 value from L_0805_2012Metric to 680nH.
+Connect U11 pin 3 to DEM_I_N.
+Connect L14 pin 2 to Net-(L14-Pad2).
+Add R6 (footprint "Resistor_SMD:R_0805_2012Metric").
+Change REF** reference to R6.
+Connect U11 pin 5 to VCMO.
+Connect U11 pin 6 to IAIN.
+Connect U11 pin 7 to GNDPWR.
+Connect U11 pin 8 to IMXO.
+Add L15 (footprint "Inductor_SMD:L_0805_2012Metric").
+Change REF** reference to L15.
+Connect U11 pin 9 to GNDPWR.
+Change L15 value from L_0805_2012Metric to 1.2uH.
+Connect U11 pin 10 to Net-(C69-Pad1).
+Connect L15 pin 2 to Net-(L15-Pad2).
+Connect R7 pin 1 to Net-(C55-Pad1).
+Connect R4 pin 2 to Net-(C11-Pad1).
+Connect R4 pin 1 to Net-(C17-Pad2).
+Change R6 value from R_0805_2012Metric to 10R.
+Change REF** reference to U11.
+Connect R6 pin 2 to GNDPWR.
+Connect R6 pin 1 to Net-(C25-Pad2).
+Add R7 (footprint "Resistor_SMD:R_0805_2012Metric").
+Connect U6 pin 2 to +3V3.
+Change R7 value from R_0805_2012Metric to 1k.
+Add U11 (footprint "AD8348ARUZ:AD8348SEDA").
+Connect R7 pin 2 to Net-(C52-Pad1).
+Change U11 value from SOP65P640X120-28N to AD8348ARUZ.
+Change REF** reference to R8.
+Change REF** reference to C77.
+Connect U10 pin 1 to Net-(C68-Pad2).
+Connect R8 pin 2 to GNDPWR.
+Connect U10 pin 2 to Net-(C80-Pad1).
+Connect R8 pin 1 to Net-(C52-Pad1).
+Connect U10 pin 3 to Net-(C67-Pad1).
+Add R9 (footprint "Resistor_SMD:R_0805_2012Metric").
+Change REF** reference to R9.
+Change R9 value from R_0805_2012Metric to 10k.
+Change REF** reference to R4.
+Connect R2 pin 1 to Net-(C11-Pad1).
+Connect U11 pin 22 to GNDPWR.
+Add R8 (footprint "Resistor_SMD:R_0805_2012Metric").
+Change REF** reference to R3.
+Change R3 value from R_0805_2012Metric to 12k.
+Connect U11 pin 23 to QAIN.
+Connect R3 pin 2 to Net-(C11-Pad1).
+Connect R3 pin 1 to Net-(C17-Pad1).
+Connect U11 pin 24 to Net-(R19-Pad2).
+Add R4 (footprint "Resistor_SMD:R_0805_2012Metric").
+Connect U11 pin 25 to DEM_Q_P.
+Connect R9 pin 2 to Net-(C36-Pad1).
+Change R4 value from R_0805_2012Metric to 100k.
+Connect U11 pin 26 to DEM_Q_N.
+Connect U2 pin 6 to +12VA.
+Change RV1 value from R_0805_2012Metric to 5k.
+Connect U11 pin 27 to GNDPWR.
+Connect U11 pin 28 to ADF_LON.
+Add R5 (footprint "Resistor_SMD:R_0805_2012Metric").
+Change REF** reference to R5.
+Change R5 value from R_0805_2012Metric to 100k.
+Connect R5 pin 2 to GNDPWR.
+Connect R5 pin 1 to Net-(R5-Pad1).
+Change RV2 value from R_0805_2012Metric to 5k.
+Connect U2 pin 5 to Net-(C25-Pad1).
+Add RV1 (footprint "Resistor_SMD:R_0805_2012Metric").
+Change REF** reference to RV1.
+Connect U2 pin 2 to GNDPWR.
+Connect U11 pin 4 to DEM_I_P.
+Connect U2 pin 7 to Net-(U2-Pad7).
+Connect RV1 pin 2 to Net-(C59-Pad1).
+Connect RV1 pin 1 to Net-(C59-Pad1).
+Connect U2 pin 8 to Net-(C12-Pad1).
+Add RV2 (footprint "Resistor_SMD:R_0805_2012Metric").
+Change REF** reference to RV2.
+Connect R36 pin 1 to Net-(C83-Pad1).
+Change U2 value from SO-8_3.9x4.9mm_P1.27mm to LM386.
+Connect RV2 pin 2 to Net-(C59-Pad1).
+Change REF** reference to U2.
+Change REF** reference to R34.
+Change R34 value from R_0805_2012Metric to 2.
+Add RV3 (footprint "Resistor_SMD:R_0805_2012Metric").
+Change REF** reference to RV3.
+Change RV3 value from R_0805_2012Metric to 5k.
+Connect RV3 pin 2 to Net-(RV3-Pad2).
+Connect RV3 pin 1 to Net-(R15-Pad2).
+Connect U1 pin 1 to RXUART_TX.
+Change REF** reference to R35.
+Connect R33 pin 2 to Net-(L15-Pad2).
+Connect R33 pin 1 to Net-(C76-Pad2).
+Add R34 (footprint "Resistor_SMD:R_0805_2012Metric").
+Change U3 value from SO-8_3.9x4.9mm_P1.27mm to LM4562.
+Connect RV2 pin 1 to Net-(C59-Pad1).
+Add U2 (footprint "Package_SO:SO-8_3.9x4.9mm_P1.27mm").
+Connect R34 pin 2 to IAIN.
+Connect R34 pin 1 to Net-(L16-Pad1).
+Change REF** reference to U3.
+Add U3 (footprint "Package_SO:SO-8_3.9x4.9mm_P1.27mm").
+Add R35 (footprint "Resistor_SMD:R_0805_2012Metric").
+Connect U1 pin 2 to RXUART_RX.
+Change R35 value from R_0805_2012Metric to 3.3k.
+Connect U2 pin 1 to Net-(C12-Pad2).
+Connect R35 pin 2 to Net-(C83-Pad1).
+Connect R35 pin 1 to DEM_Q_N.
+Connect U1 pin 16 to ILI_CS.
+Connect U1 pin 17 to ADF_RX_LE.
+Add R36 (footprint "Resistor_SMD:R_0805_2012Metric").
+Change R36 value from R_0805_2012Metric to 4.7k.
+Connect U2 pin 3 to Net-(C10-Pad1).
+Connect U2 pin 4 to GNDPWR.
+Connect R36 pin 2 to Net-(C84-Pad1).
+Connect U1 pin 32 to RX_Q.
+Connect U1 pin 11 to KEYRX2.
+Connect U1 pin 12 to KEYRX3.
+Connect U1 pin 13 to GNDPWR.
+Connect U1 pin 14 to ILI_SCK.
+Connect U1 pin 15 to ILI_MOSI.
+Connect U1 pin 8 to GNDPWR.
+Connect U6 pin 3 to +5V.
+Connect U1 pin 18 to GNDPWR.
+Connect U1 pin 34 to Net-(U1-Pad34).
+Connect U1 pin 33 to GNDPWR.
+Connect U1 pin 19 to ADF_RX_CLK.
+Connect U1 pin 10 to KEYRX1.
+Connect U1 pin 31 to RX_I.
+Connect U1 pin 30 to RST_RX.
+Connect U1 pin 29 to Net-(R1-Pad2).
+Connect U1 pin 28 to GNDPWR.
+Connect U1 pin 20 to ADF_RX_DATA.
+Connect U1 pin 27 to Net-(U1-Pad27).
+Connect SW1 pin 1 to RST_RX.
+Connect SW1 pin 1 to RST_RX.
+Connect U1 pin 25 to LCD_SCL.
+Connect U1 pin 21 to MCU_SDA.
+Connect U1 pin 24 to LCD_SDA.
+Connect U1 pin 23 to GNDPWR.
+Change REF** reference to U1.
+Add SW1 (footprint "ADX_FOOTPRINT_LIBRARY:SW_Push_1P1T_NO_6x6mm_H9.5mm").
+Change REF** reference to SW1.
+Change SW1 value from SW_Push_1P1T_NO_6x6mm_H9.5mm Mod to RESET.
+Connect U1 pin 3 to GNDPWR.
+Connect U1 pin 4 to ROTRX_A.
+Connect SW1 pin 2 to GNDPWR.
+Change REF** reference to U7.
+Connect U1 pin 26 to LNA_Cont.
+Connect SW1 pin 2 to GNDPWR.
+Connect U1 pin 5 to ROTRX_B.
+Add U1 (footprint "RP2040_PICO:RPI2040_PICO_SMD").
+Connect U3 pin 8 to Net-(C19-Pad1).
+Connect U1 pin 6 to ILI_DC.
+Change U1 value from RPI_PICO to RP2040_PICO.
+Connect U1 pin 7 to ILI_RST.
+Connect U1 pin 40 to Net-(C19-Pad1).
+Connect U1 pin 39 to Net-(U1-Pad39).
+Connect U1 pin 38 to GNDPWR.
+Connect R25 pin 2 to Net-(C72-Pad1).
+Connect U1 pin 37 to Net-(U1-Pad37).
+Connect U1 pin 35 to Net-(U1-Pad35).
+Connect U1 pin 9 to ROTRX_SW.
+Connect U5 pin 2 to +5V.
+Connect R24 pin 2 to DEM_Q_P.
+Connect R24 pin 1 to Net-(C82-Pad1).
+Change U6 value from SOT-223-3_TabPin2 to LM1117-3.3.
+Add R25 (footprint "Resistor_SMD:R_0805_2012Metric").
+Change REF** reference to U6.
+Change REF** reference to R25.
+Change R25 value from R_0805_2012Metric to 57.6R.
+Add U6 (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2").
+Add R27 (footprint "Resistor_SMD:R_0805_2012Metric").
+Connect R25 pin 1 to GNDPWR.
+Change R24 value from R_0805_2012Metric to 3.3k.
+Add R26 (footprint "Resistor_SMD:R_0805_2012Metric").
+Change REF** reference to R26.
+Change R26 value from R_0805_2012Metric to 174R.
+Connect U5 pin 2 to +5V.
+Connect U5 pin 3 to +12VA.
+Connect R26 pin 2 to Net-(C72-Pad1).
+Connect R26 pin 1 to Net-(C70-Pad2).
+Connect U5 pin 1 to GNDPWR.
+Change REF** reference to R27.
+Connect U1 pin 36 to Net-(U1-Pad36).
+Change R27 value from R_0805_2012Metric to 100.
+Connect R22 pin 1 to Net-(C67-Pad1).
+Change R21 value from R_0805_2012Metric to 3.3k.
+Connect U7 pin 6 to LNA_Cont.
+Connect U7 pin 1 to GNDPWR.
+Connect R21 pin 2 to Net-(C80-Pad1).
+Connect R21 pin 1 to DEM_I_N.
+Add R22 (footprint "Resistor_SMD:R_0805_2012Metric").
+Change REF** reference to R22.
+Change U7 value from IC_BGC100GN6E6327XTSA1 to MXD8015LL.
+Change R22 value from R_0805_2012Metric to 3.3k.
+Connect R22 pin 2 to DEM_I_P.
+Change C52 value from C_0805_2012Metric to 100nF.
+Change U5 value from SOT-223-3_TabPin2 to LM1117-5.0.
+Add U7 (footprint "BGA7L1BN6:IC_BGC100GN6E6327XTSA1").
+Add R23 (footprint "Resistor_SMD:R_0805_2012Metric").
+Change REF** reference to R23.
+Change R23 value from R_0805_2012Metric to 4.7k.
+Connect U6 pin 2 to +3V3.
+Connect R23 pin 2 to Net-(C68-Pad2).
+Connect U1 pin 22 to MCU_SCL.
+Connect R23 pin 1 to Net-(C80-Pad1).
+Add R24 (footprint "Resistor_SMD:R_0805_2012Metric").
+Change REF** reference to R24.
+Connect U3 pin 3 to Net-(R5-Pad1).
+Change REF** reference to U4.
+Add R32 (footprint "Resistor_SMD:R_0805_2012Metric").
+Connect R30 pin 2 to QMXO.
+Connect R30 pin 1 to Net-(C76-Pad1).
+Add U4 (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2").
+Add R31 (footprint "Resistor_SMD:R_0805_2012Metric").
+Change REF** reference to R31.
+Change R31 value from R_0805_2012Metric to 2.
+Connect U3 pin 1 to Net-(C17-Pad1).
+Connect R31 pin 2 to Net-(L13-Pad2).
+Connect R31 pin 1 to Net-(C74-Pad1).
+Connect U3 pin 2 to Net-(C17-Pad2).
+Change C34 value from C_0805_2012Metric to 100nF.
+Connect C34 pin 2 to GNDPWR.
+Change REF** reference to R32.
+Change R32 value from R_0805_2012Metric to 2.
+Connect U3 pin 4 to GNDPWR.
+Connect R32 pin 2 to Net-(L14-Pad2).
+Connect U3 pin 5 to Net-(U3-Pad5).
+Connect R32 pin 1 to Net-(C76-Pad2).
+Connect U3 pin 6 to GNDPWR.
+Add R33 (footprint "Resistor_SMD:R_0805_2012Metric").
+Change REF** reference to R33.
+Change R33 value from R_0805_2012Metric to 2.
+Connect U7 pin 3 to AD8348_IN.
+Change REF** reference to R29.
+Connect R27 pin 2 to VCMO.
+Connect R27 pin 1 to IAIN.
+Change REF** reference to U5.
+Add U5 (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2").
+Add R28 (footprint "Resistor_SMD:R_0805_2012Metric").
+Change REF** reference to R28.
+Change R28 value from R_0805_2012Metric to 100.
+Connect R28 pin 2 to VCMO.
+Connect U4 pin 2 to Net-(C34-Pad1).
+Connect R28 pin 1 to QAIN.
+Connect U4 pin 2 to Net-(C34-Pad1).
+Connect U3 pin 7 to GNDPWR.
+Add R29 (footprint "Resistor_SMD:R_0805_2012Metric").
+Change R29 value from R_0805_2012Metric to 200.
+Connect U4 pin 3 to +12VA.
+Connect U4 pin 1 to GNDPWR.
+Connect R29 pin 2 to IMXO.
+Connect R29 pin 1 to Net-(C75-Pad1).
+Add R30 (footprint "Resistor_SMD:R_0805_2012Metric").
+Change REF** reference to R30.
+Change R30 value from R_0805_2012Metric to 100.
+Change U4 value from SOT-223-3_TabPin2 to LM1117-5.0.
+Change REF** reference to C37.
+Add C37 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C34.
+Connect C34 pin 1 to Net-(C34-Pad1).
+Add C35 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C35.
+Change C35 value from C_0805_2012Metric to 1nF.
+Connect C35 pin 2 to Net-(C35-Pad2).
+Connect C35 pin 1 to Net-(C35-Pad1).
+Add C36 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C36.
+Change C36 value from C_0805_2012Metric to 100pF.
+Connect C36 pin 2 to GNDPWR.
+Connect C36 pin 1 to Net-(C36-Pad1).
+Change REF** reference to C33.
+Change REF** reference to R36.
+Change C37 value from C_0805_2012Metric to 1nF.
+Connect C37 pin 2 to GNDPWR.
+Connect C37 pin 1 to Net-(C36-Pad1).
+Add C51 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C51.
+Change C51 value from C_0805_2012Metric to 100nF.
+Connect C51 pin 2 to GNDPWR.
+Connect C51 pin 1 to Net-(C36-Pad1).
+Add C52 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C52.
+Connect C28 pin 2 to GNDPWR.
+Connect C28 pin 1 to +12VA.
+Connect C52 pin 1 to Net-(C52-Pad1).
+Change C30 value from CP_Elec_6.3x7.7 to 220uF/16V.
+Connect C25 pin 1 to Net-(C25-Pad1).
+Add C27 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C27.
+Change C27 value from C_0805_2012Metric to 100nF.
+Connect C27 pin 2 to GNDPWR.
+Connect C27 pin 1 to +3V3.
+Add C28 (footprint "Capacitor_SMD:CP_Elec_6.3x7.7").
+Change REF** reference to C28.
+Change C28 value from CP_Elec_6.3x7.7 to 100uF/16V.
+Connect U11 pin 16 to QOFS.
+Connect C52 pin 2 to GNDPWR.
+Add C30 (footprint "Capacitor_SMD:CP_Elec_6.3x7.7").
+Change REF** reference to C30.
+Add C53 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Connect C30 pin 2 to Net-(C30-Pad2).
+Connect C30 pin 1 to Net-(C25-Pad1).
+Add C32 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C32.
+Change C32 value from C_0805_2012Metric to 100nF.
+Connect C32 pin 2 to GNDPWR.
+Connect C32 pin 1 to +12VA.
+Add C60 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C60.
+Connect U6 pin 1 to GNDPWR.
+Connect C33 pin 2 to Net-(C33-Pad2).
+Connect C33 pin 1 to Net-(C17-Pad1).
+Add C34 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Connect C61 pin 2 to GNDPWR.
+Connect C58 pin 1 to Net-(C58-Pad1).
+Add C59 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C59.
+Change C59 value from C_0805_2012Metric to 1nF.
+Connect C59 pin 2 to GNDPWR.
+Connect C59 pin 1 to Net-(C59-Pad1).
+Add C56 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C56.
+Change C60 value from C_0805_2012Metric to 100nF.
+Connect C60 pin 2 to GNDPWR.
+Connect C60 pin 1 to Net-(C60-Pad1).
+Add C61 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C61.
+Change C61 value from C_0805_2012Metric to 10nF.
+Connect C58 pin 2 to GNDPWR.
+Connect C61 pin 1 to Net-(C59-Pad1).
+Add C62 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C62.
+Change C62 value from C_0805_2012Metric to 100nF.
+Connect C53 pin 2 to GNDPWR.
+Connect C53 pin 1 to IOFS.
+Connect C62 pin 1 to +5V.
+Add C63 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C63.
+Change C63 value from C_0805_2012Metric to 1nF.
+Connect C63 pin 2 to GNDPWR.
+Connect C63 pin 1 to Net-(C59-Pad1).
+Add C64 (footprint "Capacitor_SMD:CP_Elec_4x5.4").
+Change REF** reference to C64.
+Connect C55 pin 1 to Net-(C55-Pad1).
+Change REF** reference to C53.
+Change C53 value from C_0805_2012Metric to 100nF.
+Connect C11 pin 1 to Net-(C11-Pad1).
+Connect C62 pin 2 to GNDPWR.
+Add C54 (footprint "Capacitor_SMD:CP_Elec_4x5.4").
+Change REF** reference to C54.
+Change C54 value from CP_Elec_4x5.4 to 10uF/16V.
+Connect C54 pin 2 to GNDPWR.
+Connect C54 pin 1 to +5V.
+Add C55 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C55.
+Change C55 value from C_0805_2012Metric to 100nF.
+Connect C55 pin 2 to GNDPWR.
+Connect C25 pin 2 to Net-(C25-Pad2).
+Connect C2 pin 1 to ROTRX_B.
+Change C56 value from C_0805_2012Metric to 100nF.
+Connect C56 pin 2 to GNDPWR.
+Connect C56 pin 1 to QOFS.
+Add C57 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C57.
+Change C57 value from C_0805_2012Metric to 100nF.
+Connect C57 pin 2 to GNDPWR.
+Connect C57 pin 1 to +5V.
+Add C58 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C58.
+Change C58 value from C_0805_2012Metric to 100nF.
+Connect C9 pin 2 to GNDPWR.
+Connect C6 pin 1 to KEYRX3.
+Add C7 (footprint "Capacitor_SMD:CP_Elec_4x5.4").
+Change REF** reference to C7.
+Change C7 value from CP_Elec_4x5.4 to 4.7uF/16V.
+Connect C7 pin 2 to Net-(C4-Pad1).
+Connect C7 pin 1 to Net-(C10-Pad2).
+Add C8 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C8.
+Change C8 value from C_0805_2012Metric to 100nF.
+Connect C8 pin 2 to GNDPWR.
+Connect C8 pin 1 to KEYRX2.
+Add C9 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C9.
+Change C9 value from C_0805_2012Metric to 100nF.
+Connect C6 pin 2 to GNDPWR.
+Connect C9 pin 1 to KEYRX1.
+Add C10 (footprint "Capacitor_SMD:CP_Elec_4x5.4").
+Change REF** reference to C10.
+Change C10 value from CP_Elec_4x5.4 to 4.7uF/16V.
+Connect C10 pin 2 to Net-(C10-Pad2).
+Connect C10 pin 1 to Net-(C10-Pad1).
+Add C11 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C11.
+Change C11 value from C_0805_2012Metric to 10nF.
+Connect C11 pin 2 to GNDPWR.
+Connect C17 pin 1 to Net-(C17-Pad1).
+Add C12 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C12.
+Connect C3 pin 1 to ROTRX_SW.
+Change REF** reference to C1.
+Change C1 value from C_0805_2012Metric to 100nF.
+Connect C1 pin 2 to GNDPWR.
+Connect C1 pin 1 to ROTRX_A.
+Add C2 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C2.
+Change C2 value from C_0805_2012Metric to 100nF.
+Connect C2 pin 2 to GNDPWR.
+Change REF** reference to C5.
+Change C5 value from C_0805_2012Metric to 100nF.
+Add C3 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C3.
+Change C3 value from C_0805_2012Metric to 100nF.
+Connect C3 pin 2 to GNDPWR.
+Change C12 value from C_0805_2012Metric to 10uF.
+Add C4 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C4.
+Change C4 value from C_0805_2012Metric to 4.7nF.
+Connect C4 pin 2 to GNDPWR.
+Connect C4 pin 1 to Net-(C4-Pad1).
+Add C5 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Connect C12 pin 1 to Net-(C12-Pad1).
+Change REF** reference to C19.
+Connect C5 pin 2 to GNDPWR.
+Connect C5 pin 1 to +5V.
+Add C6 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C6.
+Change C6 value from C_0805_2012Metric to 100nF.
+Connect C21 pin 1 to +5V.
+Change REF** reference to C18.
+Change C18 value from C_0805_2012Metric to 100nF.
+Connect C18 pin 2 to GNDPWR.
+Connect C18 pin 1 to +12VA.
+Connect C22 pin 1 to +12VA.
+Connect C22 pin 2 to GNDPWR.
+Change C22 value from C_0805_2012Metric to 100nF.
+Change REF** reference to C22.
+Add C22 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Add C18 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Connect C21 pin 2 to GNDPWR.
+Change C21 value from C_0805_2012Metric to 100nF.
+Change REF** reference to C21.
+Add C21 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Connect C19 pin 1 to Net-(C19-Pad1).
+Connect C19 pin 2 to GNDPWR.
+Change C19 value from C_0805_2012Metric to 100nF.
+Add C19 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Add C23 (footprint "Capacitor_SMD:CP_Elec_4x5.4").
+Change REF** reference to C23.
+Change C23 value from CP_Elec_4x5.4 to 10uF/16V.
+Connect C23 pin 2 to GNDPWR.
+Connect C23 pin 1 to +5V.
+Add C25 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C25.
+Change C33 value from CP_Elec_4x5.4 to 4.7uF/16V.
+Change C25 value from C_0805_2012Metric to 47nF.
+Change REF** reference to C15.
+Connect C12 pin 2 to Net-(C12-Pad2).
+Change C15 value from CP_Elec_6.3x7.7 to 100uF/16V.
+Connect C15 pin 2 to GNDPWR.
+Change REF** reference to C13.
+Change C13 value from C_0805_2012Metric to 100pF.
+Connect C13 pin 2 to Net-(C13-Pad2).
+Connect C13 pin 1 to Net-(C13-Pad1).
+Add C14 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C14.
+Change C14 value from C_0805_2012Metric to 1nF.
+Connect C14 pin 2 to Net-(C13-Pad2).
+Connect C14 pin 1 to Net-(C13-Pad1).
+Add C15 (footprint "Capacitor_SMD:CP_Elec_6.3x7.7").
+Add L13 (footprint "Inductor_SMD:L_0805_2012Metric").
+Connect J2 pin 5 to KEYRX1.
+Add C13 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Connect C15 pin 1 to +12VA.
+Add C16 (footprint "Capacitor_SMD:CP_Elec_4x5.4").
+Change REF** reference to C16.
+Change C16 value from CP_Elec_4x5.4 to 10uF/16V.
+Connect C16 pin 2 to GNDPWR.
+Connect C16 pin 1 to +12VA.
+Add C17 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C17.
+Change C17 value from C_0805_2012Metric to 220pF.
+Connect C17 pin 2 to Net-(C17-Pad2).
+Connect J2 pin 17 to LCD_SDA.
+Connect J2 pin 16 to LCD_SCL.
+Connect J1 pin 5 to ILI_RST.
+Connect J1 pin 4 to ILI_SCK.
+Connect J1 pin 3 to ILI_MOSI.
+Connect J1 pin 2 to ILI_CS.
+Connect J1 pin 1 to ILI_DC.
+Add J2 (footprint "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical").
+Change REF** reference to J2.
+Change J2 value from PinHeader_1x20_P2.54mm_Vertical to PATCH02.
+Connect J2 pin 20 to GNDPWR.
+Connect J2 pin 19 to GNDPWR.
+Connect J2 pin 18 to GNDPWR.
+Connect C64 pin 2 to GNDPWR.
+Connect J2 pin 14 to TXUART_RX.
+Connect J2 pin 15 to RST_RX.
+Connect J1 pin 6 to ILI+5V.
+Connect J2 pin 13 to TXUART_TX.
+Connect J2 pin 12 to MCU_SDA.
+Connect J2 pin 11 to MCU_SCL.
+Connect J2 pin 10 to +3V3.
+Connect J2 pin 9 to +5V.
+Connect J2 pin 8 to RXUART_RX.
+Connect J2 pin 7 to RXUART_TX.
+Connect J2 pin 6 to ROTRX_SW.
+Change REF** reference to L11.
+Connect J2 pin 3 to KEYRX3.
+Connect J2 pin 2 to ROTRX_A.
+Connect J2 pin 1 to ROTRX_B.
+Connect J1 pin 20 to GNDPWR.
+Change REF** reference to FL1.
+Change FL1 value from SM3030-8_RFI to SF2126E.
+Connect FL1 pin 4 to GNDPWR.
+Connect FL1 pin 6 to GNDPWR.
+Connect FL1 pin 8 to GNDPWR.
+Connect FL1 pin 2 to GNDPWR.
+Connect FL1 pin 7 to GNDPWR.
+Connect FL1 pin 5 to Net-(C35-Pad2).
+Connect FL1 pin 3 to GNDPWR.
+Connect FL1 pin 1 to Net-(C13-Pad1).
+Add J1 (footprint "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical").
+Change REF** reference to J1.
+Change J1 value from PinHeader_1x20_P2.54mm_Vertical to PATCH01.
+Add J3 (footprint "uSDX_MONO_PCB_Library:Jack_3.5mm_PJ-320B-SMT_Horizontal_CORR").
+Connect J1 pin 19 to GNDPWR.
+Connect J1 pin 18 to GNDPWR.
+Connect J1 pin 17 to PTT.
+Connect J1 pin 16 to ROTX_SW.
+Connect J1 pin 15 to ROTX_B.
+Connect J1 pin 14 to ROTX_A.
+Connect J1 pin 13 to KEYTX3.
+Connect J1 pin 12 to KEYTX2.
+Connect J1 pin 11 to KEYTX1.
+Connect J1 pin 10 to TX+3.3V.
+Connect J1 pin 9 to TX+5V.
+Connect J1 pin 8 to +12V.
+Connect J1 pin 7 to RST_TX.
+Change L5 value from L_1210_3225Metric to 100uH.
+Connect L2 pin 1 to +12V.
+Add L3 (footprint "Inductor_SMD:L_0402_1005Metric").
+Change REF** reference to L3.
+Change L3 value from L_0402_1005Metric to 33nH.
+Connect L3 pin 2 to Net-(L3-Pad2).
+Add C73 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Add L4 (footprint "Inductor_SMD:L_1210_3225Metric").
+Change REF** reference to L4.
+Change L4 value from L_1210_3225Metric to 100uH.
+Connect L4 pin 2 to ILI+5V.
+Connect L4 pin 1 to Net-(C34-Pad1).
+Add L5 (footprint "Inductor_SMD:L_1210_3225Metric").
+Change REF** reference to L5.
+Connect L2 pin 2 to Net-(C13-Pad2).
+Connect L5 pin 2 to Net-(C36-Pad1).
+Connect L5 pin 1 to +3V3.
+Add L11 (footprint "Inductor_SMD:L_1210_3225Metric").
+Connect J2 pin 4 to KEYRX2.
+Change L11 value from L_1210_3225Metric to 100uH.
+Connect L11 pin 2 to Net-(C59-Pad1).
+Connect L11 pin 1 to +5V.
+Add L12 (footprint "Inductor_SMD:L_1210_3225Metric").
+Change REF** reference to L12.
+Change L12 value from L_1210_3225Metric to 100uH.
+Connect L12 pin 2 to +5V.
+Connect L12 pin 1 to Net-(C55-Pad1).
+Change REF** reference to L13.
+Add J6 (footprint "uSDX_MONO_PCB_Library:Jack_3.5mm_PJ-320B-SMT_Horizontal_CORR").
+Change REF** reference to J3.
+Change J3 value from Jack_3.5mm_PJ-320B-SMT_Horizontal_CORR to HEADPHONE.
+Connect J3 pin R to GNDPWR.
+Connect J3 pin S to GNDPWR.
+Connect J3 pin T to Net-(C33-Pad2).
+Add J5 (footprint "Connector_Coaxial:SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount").
+Change REF** reference to J5.
+Change J5 value from SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount to SMA RF Input.
+Connect J5 pin 1 to Net-(C13-Pad2).
+Connect J5 pin 2 to GNDPWR.
+Connect J5 pin 2 to GNDPWR.
+Connect J5 pin 2 to GNDPWR.
+Connect J5 pin 2 to GNDPWR.
+Add R3 (footprint "Resistor_SMD:R_0805_2012Metric").
+Change REF** reference to J6.
+Change J6 value from Jack_3.5mm_PJ-320B-SMT_Horizontal_CORR to SPEAKER.
+Connect J6 pin R to GNDPWR.
+Connect J6 pin S to GNDPWR.
+Connect J6 pin T to Net-(C30-Pad2).
+Add L1 (footprint "Inductor_SMD:L_1210_3225Metric").
+Change REF** reference to L1.
+Change L1 value from L_1210_3225Metric to 100uH.
+Connect L1 pin 2 to Net-(C19-Pad1).
+Connect L1 pin 1 to +5V.
+Add L2 (footprint "Inductor_SMD:L_1210_3225Metric").
+Change REF** reference to L2.
+Change L2 value from L_1210_3225Metric to 100uH.
+Change REF** reference to C66.
+Change REF** reference to C70.
+Change C70 value from C_0805_2012Metric to 820pF.
+Connect C70 pin 2 to Net-(C70-Pad2).
+Connect C70 pin 1 to Net-(C70-Pad1).
+Add C71 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C71.
+Change C71 value from C_0805_2012Metric to 82pF.
+Connect C71 pin 2 to VCMO.
+Connect C71 pin 1 to QAIN.
+Add C72 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C72.
+Connect C74 pin 1 to Net-(C74-Pad1).
+Add C75 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Connect C72 pin 2 to AD8348_IN.
+Connect C72 pin 1 to Net-(C72-Pad1).
+Add C70 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C73.
+Change C73 value from C_0805_2012Metric to 82pF.
+Connect C73 pin 2 to VCMO.
+Connect C73 pin 1 to IAIN.
+Add C74 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C74.
+Change C74 value from C_0805_2012Metric to 150pF.
+Connect C74 pin 2 to VCMO.
+Change C82 value from C_0805_2012Metric to 47nF.
+Connect C82 pin 2 to GNDPWR.
+Change REF** reference to C75.
+Change C75 value from C_0805_2012Metric to 4.7pF.
+Connect C75 pin 2 to Net-(C74-Pad1).
+Change REF** reference to C67.
+Change C64 value from CP_Elec_4x5.4 to 10uF/16V.
+Connect C64 pin 1 to +5V.
+Add C65 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C65.
+Change C65 value from C_0805_2012Metric to 10nF.
+Connect C65 pin 2 to GNDPWR.
+Add C66 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Connect C68 pin 2 to Net-(C68-Pad2).
+Change C66 value from C_0805_2012Metric to 100nF.
+Connect C66 pin 2 to Net-(C55-Pad1).
+Connect C66 pin 1 to GNDPWR.
+Add C67 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Connect D1 pin 1 to +12VA.
+Change C67 value from C_0805_2012Metric to 47nF.
+Connect C67 pin 2 to GNDPWR.
+Connect C67 pin 1 to Net-(C67-Pad1).
+Add C68 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C68.
+Change C68 value from C_0805_2012Metric to 1uF.
+Change REF** reference to C76.
+Connect C68 pin 1 to RX_I.
+Add C69 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C69.
+Change C69 value from C_0805_2012Metric to 820pF.
+Connect C69 pin 2 to GNDPWR.
+Connect C69 pin 1 to Net-(C69-Pad1).
+Change REF** reference to C84.
+Connect C81 pin 2 to Net-(C80-Pad1).
+Connect C81 pin 1 to Net-(C68-Pad2).
+Add C82 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C82.
+Change C72 value from C_0805_2012Metric to 1nF.
+Connect C82 pin 1 to Net-(C82-Pad1).
+Add C83 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C83.
+Change C83 value from C_0805_2012Metric to 47nF.
+Connect C83 pin 2 to GNDPWR.
+Connect C83 pin 1 to Net-(C83-Pad1).
+Add C84 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Add C76 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change C84 value from C_0805_2012Metric to 220pF.
+Connect C84 pin 2 to Net-(C83-Pad1).
+Connect C84 pin 1 to Net-(C84-Pad1).
+Add C85 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Add C81 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change C85 value from C_0805_2012Metric to 1uF.
+Connect C85 pin 2 to Net-(C84-Pad1).
+Connect C85 pin 1 to RX_I.
+Add D1 (footprint "Diode_SMD:D_SMA").
+Change REF** reference to D1.
+Change D1 value from D_SMA to SS34.
+Connect D1 pin 2 to +12V.
+Add FL1 (footprint "SPF2126E:SF2126E").
+Change REF** reference to C81.
+Connect C75 pin 1 to Net-(C75-Pad1).
+Connect L3 pin 1 to Net-(C35-Pad1).
+Connect C78 pin 2 to IAIN.
+Connect C65 pin 1 to Net-(C59-Pad1).
+Connect C76 pin 2 to Net-(C76-Pad2).
+Connect C76 pin 1 to Net-(C76-Pad1).
+Add C77 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change C77 value from C_0805_2012Metric to 8.2pF.
+Connect C77 pin 2 to Net-(C76-Pad2).
+Connect C77 pin 1 to QAIN.
+Add C78 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C78.
+Change C78 value from C_0805_2012Metric to 8.2pF.
+Connect C78 pin 1 to Net-(C74-Pad1).
+Change C81 value from C_0805_2012Metric to 220pF.
+Change C76 value from C_0805_2012Metric to 4.7pF.
+Connect C80 pin 1 to Net-(C80-Pad1).
+Connect C80 pin 2 to GNDPWR.
+Change C80 value from C_0805_2012Metric to 47nF.
+Change REF** reference to C80.
+Add C80 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Connect C79 pin 1 to Net-(C76-Pad2).
+Connect C79 pin 2 to VCMO.
+Change C79 value from C_0805_2012Metric to 150pF.
+Change REF** reference to C79.
+Add C79 (footprint "Capacitor_SMD:C_0805_2012Metric").
+Change REF** reference to C85.
+Error: RV1 pad 3 not found in Resistor_SMD:R_0805_2012Metric.
+Error: RV2 pad 3 not found in Resistor_SMD:R_0805_2012Metric.
+Error: RV3 pad 3 not found in Resistor_SMD:R_0805_2012Metric.

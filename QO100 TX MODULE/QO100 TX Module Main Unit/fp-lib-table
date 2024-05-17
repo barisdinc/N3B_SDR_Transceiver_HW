@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name MCU_RaspberryPi_and_Boards)(type KiCad)(uri "C:/Users/barba/Documents/QO100 PORTABLE PCB DESIGNS/QO100 PORTABLE KICAD LIBRARIES/KiCad-RP-Pico-main/KiCad-RP-Pico-main/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+  (lib (name ADF4351)(type KiCad)(uri "C:/Users/barba/Documents/QO100 PORTABLE PCB DESIGNS/QO100 PORTABLE KICAD LIBRARIES/ADF4351/ADF4351.pretty")(options "")(descr ""))
+  (lib (name AD8346)(type KiCad)(uri "C:/Users/barba/Documents/QO100 PORTABLE PCB DESIGNS/QO100 PORTABLE KICAD LIBRARIES/AD8346/AD8346.pretty")(options "")(descr ""))
+  (lib (name RP2040_PICO)(type KiCad)(uri "C:/Users/barba/Documents/QO100 PORTABLE PCB DESIGNS/QO100 PORTABLE KICAD LIBRARIES/RPI2040_PICO/RP2040_PICO.pretty")(options "")(descr ""))
+  (lib (name ADF4360)(type KiCad)(uri "C:/Users/barba/Documents/QO100 PORTABLE PCB DESIGNS/QO100 PORTABLE KICAD LIBRARIES/ADF4360/ADF4360.pretty")(options "")(descr ""))
+  (lib (name ADX_FOOTPRINT_LIBRARY)(type KiCad)(uri "C:/Users/barba/Documents/QO100 PORTABLE PCB DESIGNS/QO100 PORTABLE KICAD LIBRARIES/ADX_FOOTPRINT_LIBRARY.pretty")(options "")(descr ""))
+  (lib (name uSDX_MONO_PCB_Library)(type KiCad)(uri "C:/Users/barba/Documents/QO100 PORTABLE PCB DESIGNS/QO100 PORTABLE KICAD LIBRARIES/uSDX_MONO_PCB_Library.pretty")(options "")(descr ""))
+)

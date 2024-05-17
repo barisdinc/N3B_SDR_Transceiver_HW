@@ -1,6 +1,0 @@
-(sym_lib_table
-  (lib (name RP2040)(type Legacy)(uri "C:/Users/barba/Documents/QO100 PORTABLE PCB DESIGNS/QO100 PORTABLE KICAD LIBRARIES/RPI2040_PICO/RP2040.lib")(options "")(descr ""))
-  (lib (name ADF4351)(type Legacy)(uri "C:/Users/barba/Documents/QO100 PORTABLE PCB DESIGNS/QO100 PORTABLE KICAD LIBRARIES/ADF4351/ADF4351.lib")(options "")(descr ""))
-  (lib (name AD8346)(type Legacy)(uri "C:/Users/barba/Documents/QO100 PORTABLE PCB DESIGNS/QO100 PORTABLE KICAD LIBRARIES/AD8346/AD8346.lib")(options "")(descr ""))
-  (lib (name ADF4360)(type Legacy)(uri "C:/Users/barba/Documents/QO100 PORTABLE PCB DESIGNS/QO100 PORTABLE KICAD LIBRARIES/ADF4360/ADF4360.lib")(options "")(descr ""))
-)
