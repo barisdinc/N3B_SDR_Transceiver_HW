@@ -8,4 +8,4 @@ Instead of HF components as Tyloe detector Analog Devices's IQ modulator and dem
 
 I will update the documentation as soon as possible.
 Baris DINC
-OH2UDS / TA7W
+OH2UDS / TA7W.
