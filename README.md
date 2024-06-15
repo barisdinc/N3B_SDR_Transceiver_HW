@@ -14,8 +14,6 @@ OH2UDS / TA7W
 
 initial pictures of qocurrent work done
 initial pictures of the working HW 
-![](pics/1.jpeg)
-![](pics/2.jpeg)
 ![](pics/nb3_1.jpeg)
 ![](pics/nb3_2.jpeg)
 ![](pics/nb3_3.jpeg)
@@ -39,3 +37,4 @@ initial pictures of the working HW
 ![](pics/nb3_21.jpeg)
 
 
+OH2UDS / TA7W.
